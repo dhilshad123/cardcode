@@ -15,10 +15,10 @@ public class CardDealer
     {
         Card spade = new Card("Clbs",10);
         Card nineClubs = new Card("Clbs", 9);
-        Card tenClubs = new Card("Clbs",8);
+        Card tensClubs = new Card("Clbs",8);
         nineClubs.setSuit("diamonds");
         spade.setSuit("hearts");
-        tenClubs.setSuit("clubs");
+        tensClubs.setSuit("clubs");
         
     }
 }
